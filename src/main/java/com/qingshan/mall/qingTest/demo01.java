@@ -28,5 +28,7 @@ public class demo01 {
         }).collect(Collectors.toList());
         System.out.println("*************"+collect);
         System.out.println("787878787878787887878787878787878");
+        System.out.println("111111111111111111111111111111111");
+        System.out.println("qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq");
     }
 }
