@@ -27,5 +27,6 @@ public class demo01 {
             return studentInfo;
         }).collect(Collectors.toList());
         System.out.println("*************"+collect);
+        System.out.println("787878787878787887878787878787878");
     }
 }
