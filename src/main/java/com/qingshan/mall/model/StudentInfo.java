@@ -1,12 +1,16 @@
 package com.qingshan.mall.model;
 
 
+
 import lombok.Data;
 
-@Data
-public class StudentInfo {
+import java.io.Serializable;
 
-    private Long id;
-    private String name;
-    private String title;
+@Data
+public class StudentInfo  implements Serializable {
+
+    private int cardId;
+    private int num;
+    private int goodId;
+    private int skuId;
 }

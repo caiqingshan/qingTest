@@ -1,6 +1,5 @@
 package com.qingshan.mall.model;
 
-
 import lombok.Data;
 
 @Data
