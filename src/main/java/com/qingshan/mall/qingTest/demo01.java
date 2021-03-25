@@ -35,5 +35,6 @@ public class demo01 {
         System.out.println("******************************");
         System.out.println("++++++++++++++++++++++++++++++");
         System.out.println("caiqingshancaiqingshancaiqingshancaiqingshancaiqinagshancaiqiangshancaiqingshan");
+        System.out.println("================================================================================");
     }
 }
